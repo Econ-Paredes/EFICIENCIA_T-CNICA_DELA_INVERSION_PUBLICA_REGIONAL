@@ -71,9 +71,11 @@ Los scripts se encuentran comentados para facilitar su comprensión y reutilizac
 ## Requisitos de software
 
 - Stata: versión 15 o superior.  
-- R: versión 4.0 o superior.
+- R: versión 4.0 o superior.  
+- Python: versión 3.8 o superior.
 
-Paquetes principales en R: sf, spdep, tmap, ggplot2, dplyr.
+Paquetes principales en R: sf, spdep, tmap, ggplot2, dplyr.  
+Librerías principales en Python: pandas, numpy, requests, beautifulsoup4, selenium.
 
 ## Autores
 
