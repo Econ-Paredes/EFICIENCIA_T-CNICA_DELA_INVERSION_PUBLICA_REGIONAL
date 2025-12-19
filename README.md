@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este repositorio contiene la base de datos procesada y la totalidad de los scripts desarrollados en **Python**, **R** y **Stata** utilizados en la tesis de maestría titulada:
+Este repositorio contiene la base de datos procesada y la totalidad de los scripts desarrollados en **Python**,**R** y **Stata** utilizados en la tesis de maestría titulada:
 
 **“Determinantes de la Eficiencia Técnica en la Inversión Pública Regional, Perú, 2015–2024: Un análisis panel con enfoque espacial”**
 
