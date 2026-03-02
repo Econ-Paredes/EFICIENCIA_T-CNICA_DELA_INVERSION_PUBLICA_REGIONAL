@@ -378,6 +378,11 @@ estimates store FE_final_DK
 estimates table FE_base FE_tw FE_final_cluster FE_final_DK, star stats(N r2 r2_a)
 
 ****************************************************************************************
+*Analizar la dinamica temporal:
+
+testparm i.Año
+
+****************************************************************************************
 * FIN DEL APARTADO 6
 *
 * Redacción sugerida para tesis (idea central):
@@ -386,5 +391,6 @@ estimates table FE_base FE_tw FE_final_cluster FE_final_DK, star stats(N r2 r2_a
 * - La inferencia se basó en errores estándar robustos (cluster por región)
 *   y se verificó robustez con Driscoll–Kraay cuando correspondía.
 ****************************************************************************************/
+
 
 
